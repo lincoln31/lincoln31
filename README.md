@@ -115,9 +115,16 @@
 </details>
 <br>
 -->
-<p align="center"><em>(Asegúrate de que cada proyecto "pineado" en tu perfil principal de GitHub también tenga un README.md excelente y detallado dentro de su propio repositorio)</em></p>
 
+<h2 align="center">📊 Mis Estadísticas de GitHub</h2>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=lincoln31&show_icons=true&theme=radical&include_all_commits=true&count_private=true" alt="Estadísticas de GitHub de Juan Esteban (lincoln31)" />
+  <br><br>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lincoln31&layout=compact&langs_count=8&theme=radical" alt="Lenguajes más usados por Juan Esteban (lincoln31)" />
+  <br><br>
 <hr/>
+<!-- Opcional: Racha de Contribuciones -->
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=lincoln31&theme=radical&hide_border=false" alt="Racha de Contribuciones de Juan Esteban (lincoln31)" /> 
 
 <h2>🔗 Contáctame</h2>
 <p align="center">
